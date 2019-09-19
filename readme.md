@@ -1,0 +1,1 @@
+1) zainstaluj Windows Drivers Installer (64-Bit) ze strony https://www.phidgets.com/docs/Language_-_C_Sharp#Quick_Downloads
